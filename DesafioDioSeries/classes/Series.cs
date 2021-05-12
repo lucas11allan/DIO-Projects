@@ -18,7 +18,7 @@ namespace DesafioDioSeries
             this.Genero = genero;
             this.Titulo = titulo;
             this.Descricao = descricao;
-            this.Ano = ano
+            this.Ano = ano;
         }
 
         public override string ToString()
