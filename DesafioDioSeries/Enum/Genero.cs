@@ -1,4 +1,4 @@
-namespace DesafioDioSeries.Enum
+namespace DesafioDioSeries
 {
     public enum Genero
     {
