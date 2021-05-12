@@ -1,0 +1,16 @@
+C:\Users\lucas\DIO\DesafioDioSeries\bin\Debug\net5.0\DesafioDioSeries.exe
+C:\Users\lucas\DIO\DesafioDioSeries\bin\Debug\net5.0\DesafioDioSeries.deps.json
+C:\Users\lucas\DIO\DesafioDioSeries\bin\Debug\net5.0\DesafioDioSeries.runtimeconfig.json
+C:\Users\lucas\DIO\DesafioDioSeries\bin\Debug\net5.0\DesafioDioSeries.runtimeconfig.dev.json
+C:\Users\lucas\DIO\DesafioDioSeries\bin\Debug\net5.0\DesafioDioSeries.dll
+C:\Users\lucas\DIO\DesafioDioSeries\bin\Debug\net5.0\ref\DesafioDioSeries.dll
+C:\Users\lucas\DIO\DesafioDioSeries\bin\Debug\net5.0\DesafioDioSeries.pdb
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.csprojAssemblyReference.cache
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.AssemblyInfoInputs.cache
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.AssemblyInfo.cs
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.csproj.CoreCompileInputs.cache
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.dll
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\ref\DesafioDioSeries.dll
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.pdb
+C:\Users\lucas\DIO\DesafioDioSeries\obj\Debug\net5.0\DesafioDioSeries.genruntimeconfig.cache
