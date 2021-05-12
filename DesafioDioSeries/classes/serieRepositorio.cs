@@ -9,39 +9,34 @@ namespace DesafioDioSeries
     public class serieRepositorio : IRepositorio<Series>
     {
         private List<Series> listaSerie = new List<Series>();
-        public void Atualiza(int id, Series entidade)
+        public void Atualiza(int id, Series objeto)
         {
-            throw new NotImplementedException();
-        }
-
-        public void Atualiza(int id)
-        {
-            throw new NotImplementedException();
+            listaSerie[id] = objeto;
         }
 
         public void Exclui(int id)
         {
-            throw new NotImplementedException();
+            listaSerie[id].Exclui();
         }
 
-        public void Insere(Series entidade)
+        public void Insere(Series objeto)
         {
-            throw new NotImplementedException();
+            listaSerie.Add(objeto);
         }
 
         public List<Series> Lista()
         {
-            throw new NotImplementedException();
+            return listaSerie;
         }
 
         public int ProximoId()
         {
-            throw new NotImplementedException();
+            return listaSerie.Count;
         }
 
         public Series RetornaporId(int id)
         {
-            throw new NotImplementedException();
+            return listaSerie[id];
         }
     }
 }
